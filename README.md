@@ -8,4 +8,4 @@ Third parties used for owop.xyz are
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css)
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign)
 
-[Patreon](https://www.patreon.com/u9pi)
+[Patreon/u9pi](https://www.patreon.com/u9pi)
